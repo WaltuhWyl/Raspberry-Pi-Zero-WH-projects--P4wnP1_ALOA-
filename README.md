@@ -13,4 +13,4 @@ Im not an autor of ALOA
 
 I just create HID files, and other files that make this project better and more useful.
 
-##DIE_TRASH##
+![](pictures/batman-logo.png)
